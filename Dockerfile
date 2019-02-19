@@ -1,10 +1,10 @@
 # to build:
-#   docker build -t darvin/leon .
+#   docker build -t jairewiz/leon-docker .
 # to pull:
-#   docker pull darvin/leon
+#   docker pull jairewiz/leon-docker
 # to run:
-#   docker run -p 1337:1337 -p 8889:4242 -it darvin/leon
-#   docker run -p 1337:1337 -p 8889:4242 -d darvin/leon
+#   docker run -p 1337:1337 -p 8889:4242 -it jairewiz/leon-docker
+#   docker run -p 1337:1337 -p 8889:4242 -d jairewiz/leon-docker
 # go to:
 #   http://localhost:1337/
 
